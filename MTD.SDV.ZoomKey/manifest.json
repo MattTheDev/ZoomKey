@@ -1,0 +1,10 @@
+{
+  "Name": "ZoomKey",
+  "Author": "MattTheDev",
+  "Version": "1.0.0",
+  "Description": "I'm a simple man who enjoys a simple mod. Want to zoom? Want to just hit keys? Bam. Done.",
+  "UniqueID": "MTD.SDV.ZoomKey",
+  "EntryDll": "MTD.SDV.ZoomKey.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
